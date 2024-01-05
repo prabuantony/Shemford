@@ -100,7 +100,7 @@ nav .navigation ul li a:hover{
 }
 
 #home{
-    background-image: linear-gradient(rgba(30,33,88,0.6),rgba(179,135,46,0.5)),url(/pic/school.jpg);
+    background-image: linear-gradient(rgba(30,33,88,0.6),rgba(179,135,46,0.5)),url(./pic/school.jpg);
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -164,7 +164,7 @@ nav .navigation ul li a:hover{
 
 
 #about{
-    background-image: linear-gradient(rgba(30,33,88,0.8),rgba(179,135,46,0.7)),url(/pic/sc1.jpg);
+    background-image: linear-gradient(rgba(30,33,88,0.8),rgba(179,135,46,0.7)),url(./pic/sc1.jpg);
     width: 100%;
     min-height: 100vh;
     background-size: cover;
@@ -306,7 +306,7 @@ nav .navigation ul li a:hover{
 
 
 #contact{
-    background-image: linear-gradient(rgba(30,33,88,0.8),rgba(179,135,46,0.7)),url(/pic/sc1.jpg);
+    background-image: linear-gradient(rgba(30,33,88,0.8),rgba(179,135,46,0.7)),url(./pic/sc1.jpg);
     width: 100%;
     min-height: 100vh;
     background-size: cover;
