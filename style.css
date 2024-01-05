@@ -68,6 +68,10 @@ nav .navigation ul li a:hover{
         position: fixed;
         background-color: rgba(255, 255, 255,.95);
     }
+    nav img{
+    width: 150px;
+    cursor: pointer;
+}
     nav .navigation ul{
         display: block;   
     }
